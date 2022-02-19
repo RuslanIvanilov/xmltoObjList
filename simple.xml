@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report number="1234">
+    <employees department="IT">
+        <employee number="1">
+            <name>Jone Doe</name>
+            <age>28</age>
+            <salary currency="USD">3500.00</salary>
+        </employee>
+        <employee number="2">
+            <name>Mike Frost</name>
+            <age>33</age>
+            <salary currency="USD">4000.00</salary>
+        </employee>
+
+        <employee number="3">
+            <name>Ivan Ivanov</name>
+            <age>37</age>
+            <salary currency="RUR">320000.00</salary>
+        </employee>
+
+        <employee number="4">
+            <name>Piotr Mish</name>
+            <age>47</age>
+            <salary currency="RUR">410000.00</salary>
+        </employee>
+
+    </employees>
+</report>
